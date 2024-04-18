@@ -6,8 +6,8 @@
 <body>
     <h1>Links</h1>
     <ol>
-        {% for link in links %}
-            <li><a href="{{ link.href }}"></a></li>
+        {% for link in data %}
+            <li><a href="{{ link.href }}">{{  link.text }}</a></li>
         {% endfor %}
     </ol>
 </body>

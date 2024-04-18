@@ -9,7 +9,7 @@ app = Flask(__name__)
 def display_links():
     with open('pithon/esercizio37.json') as f:
         data = json.load(f)
-    return render_template('esercizio37.html', text=data)
+    return render_template('esercizio37.html', data=data)
 
 
 if __name__ == '__main__':

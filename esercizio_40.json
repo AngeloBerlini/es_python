@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan Cheese"],
+        "instructions": "Boil the spaghetti. Fry the pancetta. Mix eggs and cheese. Combine everything."
+    },
+    {
+        "id": 2,
+        "name":"Torta",
+        "ingredients": ["Eggs","Sugar","Flour","Milk","Butter","Cocoa"],
+        "instructions": "Put the ingredients in a boul. Combine all. Put them in a oven, stand, and then eat :) ."
+
+    }
+
+
+]
